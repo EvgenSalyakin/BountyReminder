@@ -1,1 +1,1 @@
-# BountyReminder
+# Bounty reminder
